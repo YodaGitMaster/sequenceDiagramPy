@@ -2,7 +2,7 @@
 Small python package to create sequence diagram of a program syntax for the website https://sequencediagram.org/
 
 ## Setup:
-- make sure the functions have docstrings, argument type, return type and (if __name__ == "__main__")
+- make sure the functions have docstrings, argument type, return type and ```if __name__ == "__main__"```
 - change the entry point to the python file
 - copy the syntax to https://sequencediagram.org/
 
